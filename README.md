@@ -1,1 +1,3 @@
-My personal portfolio website, hosted on vercel.
+My personal portfolio website.
+
+Note - Hosted on vercel.
